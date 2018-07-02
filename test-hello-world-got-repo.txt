@@ -1,0 +1,10 @@
+Dell@DESKTOP-C51PAB0 MINGW64 ~/desktop/gitsample/gitrepository (master)
+$ touch test.txt
+Dell@DESKTOP-C51PAB0 MINGW64 ~/desktop/gitsample/gitrepository (master)
+$ ls
+README.md  test.txt
+Dell@DESKTOP-C51PAB0 MINGW64 ~/desktop/gitsample/gitrepository (master)
+$ vi test.txt
+
+Dell@DESKTOP-C51PAB0 MINGW64 ~/desktop/gitsample/gitrepository (master)
+$ git status
